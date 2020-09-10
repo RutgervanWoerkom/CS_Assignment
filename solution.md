@@ -6,5 +6,4 @@
 
 * DW Ziegler et al., 2005
 
-data <- read.table('istherecorrelation.csv')
-data
+![](correlation.png "Correlation")
